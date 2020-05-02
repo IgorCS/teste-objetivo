@@ -49,30 +49,24 @@
 
   <div class="container-fluid p-0">
 
-  	<section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="cadastro">      
-      <div class="resume-content">
-        <h3 class="mb-0">Teste Seletivo</h3>            
-                 
-        <body>
-			<div class="container">
-			<h1 class="text-center"></h1>
-				<div class="col-xs-12">
-					<div class="row">
-						<div class="alert alert-success">
-							<strong>Teste seletivo de 2021.</strong> <br>
-							Seu cadastro para o teste seletivo do Colégio Objetivo está disponível. Realize o cadastro através do link abaixo:
-							<br>						
-							<?= anchor('cadastro/create', 'Cadastrar'); ?>					
-						</div>				
-						<div class="alert alert-info">
-							<strong>Área administrativa - Colégio Objetivo </strong> <br>
-							<?= anchor('home/acesso', 'Acessar'); ?>					
-						</div>	
-					</div>		
-				</div>	
+  	<section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="cadastro">  
+	  	<div class="w-100">
+		  	<div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">      
+		        <div class="resume-content">
+		        <h3 class="mb-0">Teste Seletivo</h3>												
+					<div class="alert alert-success">
+						<strong>Teste seletivo de 2021.</strong> <br>
+						Seu cadastro para o teste seletivo do Colégio Objetivo está disponível. Realize o cadastro através do link abaixo:
+						<br>						
+						<?= anchor('cadastro/create', 'Cadastrar'); ?>					
+					</div>				
+					<div class="alert alert-info">
+						<strong>Área administrativa - Colégio Objetivo </strong> <br>
+						<?= anchor('home/acesso', 'Acessar'); ?>					
+					</div>				
+			    </div>
 			</div>
-		</body>
-      </div>     
+	 	</div>     
     </section>
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="manual">
