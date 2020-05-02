@@ -68,6 +68,8 @@
 			</div>
 	 	</div>     
     </section>
+    
+    <hr class="m-0">
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="manual">
 	    <div class="w-100">        
