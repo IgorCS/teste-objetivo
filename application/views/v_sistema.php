@@ -52,7 +52,7 @@
   	<section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="cadastro">      
       <div class="resume-content">
         <h3 class="mb-0">Teste Seletivo</h3>            
-        <div class="subheading mb-3"></div>            
+                 
         <body>
 			<div class="container">
 			<h1 class="text-center"></h1>
@@ -72,45 +72,39 @@
 				</div>	
 			</div>
 		</body>
-      </div>        
-    
+      </div>     
     </section>
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="manual">
-      <div class="w-100">
-       
-        
-        <div class="subheading mb-5">IgorCS - 
-            <a href="mailto:igorweb08@gmail.com">igorweb08@gmail.com - </a>
-            <i class="fab fa-whatsapp"></i>
-            <i class="fas fa-phone"></i> (86) 98874-4745
-        </div>
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Opção de cadastro do candidato e acesso administrativo</h3>
-            <!-- Site: <a href="https://classecon.com.br" target="blank"> -->
-            <div class="subheading mb-3"></div>
-            <p>• Na aba cadastrar do sistema possui dois links o primeiro é referente ao candidato para se increver no teste, já na outra aba é para o acesso administrativo da instituição com as opções de listar, alterar e excluir.</p>   
-           
+	    <div class="w-100">        
+	        <div class="subheading mb-5">IgorCS - 
+	            <a href="mailto:igorweb08@gmail.com">igorweb08@gmail.com - </a>
+	            <i class="fab fa-whatsapp"></i>
+	            <i class="fas fa-phone"></i> (86) 98874-4745
+	        </div>
+	        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+	         	<div class="resume-content">
+		    		<h3 class="mb-0">Opção de cadastro do candidato e acesso administrativo</h3>	          
+		            <div class="subheading mb-3"></div>
+		            <p>• Na aba cadastrar do sistema possui dois links o primeiro é referente ao candidato para se increver no teste, já na outra aba é para o acesso administrativo da instituição com as opções de listar, alterar e excluir.</p> 	           
 
-            <h3 class="mb-0">Validações</h3>
-            <p>• No cadastro referente ao candidato ,caso o mesmo insira um email inválido ou email já cadastrado o sistema irá alerta-lo ,caso seja um administrador ele poderá alterar mesmo já com e-mail existente.</p>   
-            <p>• No formulário todos os campos são obrigatórios</p>             
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"></span>
-          </div>
+		            <h3 class="mb-0">Validações</h3>
+		            <p>• No cadastro referente ao candidato ,caso o mesmo insira um email inválido ou email já cadastrado o sistema irá alerta-lo ,caso seja um administrador ele poderá alterar mesmo já com e-mail existente.</p>   
+		            <p>• No formulário todos os campos são obrigatórios</p>             
+	          	</div>
+	            <div class="resume-date text-md-right">
+		            <span class="text-primary"></span>
+	            </div>
+	        </div>
+	        <div class="social-icons">
+	          	<a href="https://www.linkedin.com/in/igor-carvalho-51686551/" target="blank">
+	            	<i class="fab fa-linkedin-in"></i>
+	          	</a>
+	          	<a href="https://github.com/IgorCS" target="blank">
+	           	 	<i class="fab fa-github"></i>
+	          	</a>          
+	        </div>
         </div>
-        <div class="social-icons">
-          <a href="https://www.linkedin.com/in/igor-carvalho-51686551/" target="blank">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-          <a href="https://github.com/IgorCS" target="blank">
-            <i class="fab fa-github"></i>
-          </a>
-          
-        </div>
-      </div>
     </section>
     
   </div>
