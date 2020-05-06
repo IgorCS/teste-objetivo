@@ -21,6 +21,8 @@ Vá para a pasta do projeto:
 >No arquivo database.php você pode estar alterando para localhost ou de acordo com suas configurações
 obs: Possui um Dump na raiz do projeto 
 
+## Acesso ao projeto pela url - front end feito para data de entrega em 06/05/2020 - atualizado
+>http://testecolegioobjetivo.atwebpages.com/index.php
 
 ## Copyright and License
 
