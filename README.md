@@ -3,7 +3,7 @@
 >A versão utilizada foi a 7.3
  
 ##Especificações do framework
->Foi utilizado o framework CodeIgniter puro
+>Foi utilizado o framework CodeIgniter puro com bootstrap para o front end - css
 
 ##Banco de dados
 >Fui utilizado o mysql
