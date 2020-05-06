@@ -137,6 +137,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');?><!DOCTYPE html>
 			</div>
 			<?php } ?>
 		</div>	
-	</div>
+	</div>	
 </body>
+	<div class="container">		
+		<div class="footer">
+			<p>Copyright © 1996-2020. <a href="">Colégio Objetivo</a>. Todos os Direitos Reservados.</p>
+		</div>
+	</div>
 </html>
+
+<style>
+	.footer {
+	   position: fixed;
+	   left: 0;
+	   bottom: 0;
+	   width: 100%;
+	   background-color: black;
+	   color: white;
+	   text-align: center;
+	}
+</style>
