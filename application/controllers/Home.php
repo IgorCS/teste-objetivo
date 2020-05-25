@@ -14,6 +14,7 @@ class Home extends CI_Controller {
 	}
 
 	public function acesso() {
+		//CVariaveis de Cadastro
 		$variaveis['cadastros'] = $this->m_cadastros->get();
 		$this->load->view('v_home', $variaveis);
 	}

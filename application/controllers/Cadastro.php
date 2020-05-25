@@ -39,7 +39,7 @@ class Cadastro extends CI_Controller {
 		if (isset($post['serie']) && $post['serie'] !== '' && $post['serie'] !== null) {
 			$post['data']['serie'] = $post['serie'];
 		} else {
-			$post['erro']['serie'] = 'O campo série precisa ser preenchido';
+			$post['erro']['serie'] = 'O campo série precisa ser preenchido!';
 		}		
 
 		$post['data']['data_cadastro'] = date('Y-m-d h:i:s');		
