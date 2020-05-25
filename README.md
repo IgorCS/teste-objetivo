@@ -17,7 +17,7 @@ Go to project folder:
 Vá para a pasta do projeto:  
 > cd..
 
-## Configurações do banco
+## Configurações do banco de dados
 >No arquivo database.php você pode estar alterando para localhost ou de acordo com suas configurações
 obs: Possui um Dump na raiz do projeto 
 
